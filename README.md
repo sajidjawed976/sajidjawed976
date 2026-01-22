@@ -1,18 +1,18 @@
-### Hi there, I'm Sajid Jawed 👋  
+### Hi there, I'm Sajid Jawed 👋
 
-💻 **Full Stack Developer | 1 Year Experience**  
+💻 **Full Stack Developer | 2 Year Experience**
 
-🚀 **Tech Stack:**  
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** PHP, Laravel, Django  
-- **CMS & Platforms:** WordPress, Shopify  
-- **Database:** MySQL, MongoDB
+🚀 **Tech Stack:**
+- **Frontend:** HTML, CSS, JavaScript, React, Next, Angular
+- **Backend:** PHP, Laravel, Django, NestJs
+- **CMS & Platforms:** WordPress, Shopify
+- **Database:** MySQL, MongoDB, MariaDB, Postgres
 
-📚 Currently working at TriA Tech Solution Pvt Ltd. 
+📚 Currently working at TriA Tech Solution Pvt Ltd.
 
-🤝 Open to collaborating on exciting web development projects.  
+🤝 Open to collaborating on exciting web development projects.
 
-📫 Reach me at: sajidjawed976@gmail.com  
+📫 Reach me at: sajidjawed976@gmail.com
 
 ⚡ **Fun Fact:** I love solving coding challenges and exploring new technologies!  
 
